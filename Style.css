@@ -1,0 +1,33 @@
+#h5 { 
+    text-align: center;
+    
+}
+#logo{
+
+}
+.icones1{
+    display: flex;
+    align-items: center;
+    flex-direction:row;
+    text-align: center;
+    margin-left: 90px;
+    
+}
+.texto{
+    display: flex;
+    align-items:center;
+    flex-direction:row;
+    justify-content: center;
+    align-content: space-around;
+}
+.icones2{
+    display: flex;
+    justify-content:end;
+    margin-right: 90px;
+}
+#h6{
+    margin-left: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
